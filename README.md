@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erlinaagustin
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning data science and data visualization
+- 🌱 I’m currently learning data science and web development
 - 📫 You can reach me on erlinaagustin22@gmail.com
 
 <!---
